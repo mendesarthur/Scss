@@ -1,1 +1,1 @@
-# Sass / Scss
+# Scss & Sass
