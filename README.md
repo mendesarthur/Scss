@@ -1,1 +1,1 @@
-# Sass classes
+# Sass / Scss
